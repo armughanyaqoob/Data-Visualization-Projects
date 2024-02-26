@@ -3,7 +3,7 @@
 
 Data-Visualization-Projects
 
-## overview
+## Overview
 Welcome to my portfolio! This repository showcases some of my projects completed during my internship at Jaffer Business. These projects demonstrate my skills in data analysis and visualization using Excel, Power BI, and Tableau.
 
 ## Features
